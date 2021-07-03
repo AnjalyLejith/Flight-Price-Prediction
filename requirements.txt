@@ -19,15 +19,3 @@ six==1.14.0
 virtualenv==20.0.7
 Werkzeug==1.0.1
 wincertstore==0.2
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
